@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BASE_URL</key>
+	<string>$(BASE_URL)</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Test-Inter-ExtraBold.ttf</string>
+		<string>Test-Inter-Italic.otf</string>
+		<string>Test-Inter-Light.ttf</string>
+	</array>
+</dict>
+</plist>
